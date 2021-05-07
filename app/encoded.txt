@@ -1,0 +1,12 @@
+Привет1: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет2: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет3: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет4: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет5: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет6: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет7: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет8: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет9: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+Привет10: Aa Bb Cc Dd Ee Ff Gg Hh ... Xx Yy Zz.! Конец !!!
+
+
